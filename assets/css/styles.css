@@ -11576,8 +11576,8 @@ pre .code {
   position: relative;
   height: 40vh;
   min-height: 430px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Cosmic.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Cosmic.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper1.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11641,8 +11641,8 @@ pre .code {
   position: relative;
   height: 40vh;
   min-height: 430px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Cartwheel.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Cartwheel.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper2.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11706,8 +11706,8 @@ pre .code {
   position: relative;
   height: 40vh;
   min-height: 430px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Nebula.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Nebula.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper3.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11767,12 +11767,12 @@ pre .code {
   }
 }
 
-.headerres {
+.headersongs {
   position: relative;
   height: 40vh;
   min-height: 430px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/NGC.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/NGC.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper4.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper4.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11780,12 +11780,12 @@ pre .code {
   color: #fff;
 }
 
-.headerres .container {
+.headersongs .container {
   position: relative;
   height: 100%;
 }
 
-.headerres .header-content {
+.headersongs .header-content {
   width: 100%;
   position: absolute;
   left: 0;
@@ -11796,12 +11796,12 @@ pre .code {
   color: #fff;
 }
 
-.headerres .header-content .header-subtitle {
+.headersongs .header-content .header-subtitle {
   font-weight: 200;
   font-size: calc(20px + (45 - 20) * ((100vw - 300px) / (1600 - 300)));
 }
 
-.headerres .header-content .header-title {
+.headersongs .header-content .header-title {
   font-size: calc(40px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
   font-weight: bold;
   line-height: .7;
@@ -11809,7 +11809,7 @@ pre .code {
   color: inherit;
 }
 
-.headerres .header-content .header-mono {
+.headersongs .header-content .header-mono {
   letter-spacing: 5px;
   font-weight: 500;
   font-size: calc(12px + (19 - 12) * ((100vw - 300px) / (1600 - 300)));
@@ -11817,17 +11817,17 @@ pre .code {
 }
 
 @media (max-width: 767.98px) {
-  .headerres {
+  .headersongs {
     height: 500px;
     min-height: 500px;
   }
-  .headerres .social-icons {
+  .headersongs .social-icons {
     margin: auto;
   }
-  .headerres .header-content {
+  .headersongs .header-content {
     padding: 20px;
   }
-  .headerres .header-content .header-mono {
+  .headersongs .header-content .header-mono {
     letter-spacing: 2px;
   }
 }
@@ -11901,8 +11901,8 @@ pre .code {
   position: relative;
   height: 40vh;
   min-height: 430px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Centaurus.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Centaurus.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper3.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/musicWallpaper3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
